@@ -1,5 +1,4 @@
 # Report: Study and Analysis of the MYC Gene  
-Website: [https://amarcos20.github.io/biolabs.project](https://amarcos20.github.io/biolabs.project)
 
 ## Authors
 
